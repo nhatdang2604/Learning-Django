@@ -1,0 +1,1 @@
+# Learn how to use Django Framework for the upcoming Midterm Lab in "Introduction to Software Engineering" course
